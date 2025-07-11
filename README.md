@@ -1,2 +1,2 @@
 # Lists and Dictionaries
-Two different code using for loops with dictionaries and lists.
+Two different codes using for loops with dictionaries and lists.
